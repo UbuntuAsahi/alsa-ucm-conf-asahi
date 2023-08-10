@@ -1,0 +1,13 @@
+Source: alsa-ucm-conf-asahi
+Section: misc
+Priority: optional
+Maintainer: Tobias Heider <me@tobhe.de>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.6.2
+Rules-Requires-Root: no
+
+Package: alsa-ucm-conf-asahi
+Architecture: any
+Multi-Arch: foreign
+Depends: alsa-ucm-conf (>= 1.2.7.2)
+Description: ALSA Use Case Manager configuration (and topologies) for Apple silicon devices

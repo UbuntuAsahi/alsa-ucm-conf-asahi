@@ -1,0 +1,5 @@
+alsa-ucm-conf-asahi (1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #XXX).
+
+ -- Tobias Heider <me@tobhe.de>  Thu, 10 Aug 2023 02:14:01 +0200
