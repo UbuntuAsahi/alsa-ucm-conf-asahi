@@ -4,10 +4,18 @@ Priority: optional
 Maintainer: Tobias Heider <me@tobhe.de>
 Build-Depends: debhelper-compat (= 12)
 Standards-Version: 4.6.2
+Homepage: https://github.com/AsahiLinux/alsa-ucm-conf-asahi
+Vcs-Browser: https://salsa.debian.org/bananas-team/alsa-ucm-conf-asahi
+Vcs-Git: https://salsa.debian.org/bananas-team/alsa-ucm-conf-asahi.git
 Rules-Requires-Root: no
 
 Package: alsa-ucm-conf-asahi
-Architecture: any
+Architecture: all
 Multi-Arch: foreign
-Depends: alsa-ucm-conf (>= 1.2.7.2)
+Depends: ${misc:Depends}, alsa-ucm-conf (>= 1.2.7.2)
 Description: ALSA Use Case Manager configuration (and topologies) for Apple silicon devices
+ This package contains so-called ALSA UCM configuration describing internal
+ sound peripherals on Apple hardware. This is to overlay the parent
+ alsa-ucm-conf package at /usr/share/alsa.
+ .
+ ALSA is the Advanced Linux Sound Architecture.
