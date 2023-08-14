@@ -12,7 +12,7 @@ Rules-Requires-Root: no
 Package: alsa-ucm-conf-asahi
 Architecture: all
 Multi-Arch: foreign
-Depends: ${misc:Depends}, alsa-ucm-conf (>= 1.2.7.2)
+Depends: ${misc:Depends}, alsa-ucm-conf (>= 1.2.4)
 Enhances: alsa-ucm-conf
 Description: ALSA Use Case Manager configuration (and topologies) for Apple silicon devices
  This package contains so-called ALSA UCM configuration describing internal
