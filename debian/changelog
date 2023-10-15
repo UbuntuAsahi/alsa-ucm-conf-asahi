@@ -1,3 +1,18 @@
+alsa-ucm-conf-asahi (3-1) unstable; urgency=medium
+
+  * Team upload.
+
+  [ Tobias Heider ]
+  * Add Enhances: alsa-ucm-conf
+  * Relax version requirement for alsa-ucm-conf.
+    There is no need to be so strict.
+
+  [ Andreas Henriksson ]
+  * debian/gbp.conf: add upstream-vcs-tag setting
+  * New upstream release
+
+ -- Andreas Henriksson <andreas@fatal.se>  Sun, 15 Oct 2023 15:44:20 +0200
+
 alsa-ucm-conf-asahi (1-1) unstable; urgency=medium
 
   * Initial release (Closes: #1043433).
