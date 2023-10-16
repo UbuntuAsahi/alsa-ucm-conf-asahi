@@ -1,3 +1,9 @@
+alsa-ucm-conf-asahi (3-1ubuntu1) jammy; urgency=medium
+
+  * Import v3 from Debian
+
+ -- Tobias Heider <me@tobhe.de>  Mon, 16 Oct 2023 16:21:01 +0200
+
 alsa-ucm-conf-asahi (3-1) unstable; urgency=medium
 
   * Team upload.
