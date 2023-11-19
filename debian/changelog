@@ -1,3 +1,9 @@
+alsa-ucm-conf-asahi (4-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Tobias Heider <me@tobhe.de>  Sun, 19 Nov 2023 23:35:16 +0100
+
 alsa-ucm-conf-asahi (3-1) unstable; urgency=medium
 
   * Team upload.
