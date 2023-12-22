@@ -1,8 +1,20 @@
-alsa-ucm-conf-asahi (3-1ubuntu1) jammy; urgency=medium
+alsa-ucm-conf-asahi (5-1~ubuntu0) jammy; urgency=medium
 
-  * Import v3 from Debian
+  * Backport to Ubuntu 22.04
 
- -- Tobias Heider <me@tobhe.de>  Mon, 16 Oct 2023 16:21:01 +0200
+ -- Tobias Heider <me@tobhe.de>  Fri, 22 Dec 2023 21:26:50 +0100
+
+alsa-ucm-conf-asahi (5-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Tobias Heider <me@tobhe.de>  Fri, 22 Dec 2023 21:10:15 +0100
+
+alsa-ucm-conf-asahi (4-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Tobias Heider <me@tobhe.de>  Sun, 19 Nov 2023 23:35:16 +0100
 
 alsa-ucm-conf-asahi (3-1) unstable; urgency=medium
 
