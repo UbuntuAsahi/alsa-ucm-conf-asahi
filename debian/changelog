@@ -1,3 +1,11 @@
+alsa-ucm-conf-asahi (7-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release.
+  * Set bananas-team as maintainer.
+
+ -- Andreas Henriksson <andreas@fatal.se>  Sat, 15 Mar 2025 21:14:39 +0100
+
 alsa-ucm-conf-asahi (6-1) unstable; urgency=medium
 
   * Team upload.
