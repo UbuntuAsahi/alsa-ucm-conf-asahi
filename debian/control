@@ -1,7 +1,9 @@
 Source: alsa-ucm-conf-asahi
 Section: misc
 Priority: optional
-Maintainer: Tobias Heider <me@tobhe.de>
+Maintainer: Debian Bananas Team <team+bananas@tracker.debian.org>
+Uploaders:
+ Tobias Heider <me@tobhe.de>,
 Build-Depends: debhelper-compat (= 12)
 Standards-Version: 4.6.2
 Homepage: https://github.com/AsahiLinux/alsa-ucm-conf-asahi
