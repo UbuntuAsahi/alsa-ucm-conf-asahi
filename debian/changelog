@@ -1,3 +1,9 @@
+alsa-ucm-conf-asahi (7-1~bpo24.04.1) noble; urgency=medium
+
+  * Backport to Ubuntu 24.04
+
+ -- Tobias Heider <me@tobhe.de>  Wed, 26 Mar 2025 19:18:42 +0100
+
 alsa-ucm-conf-asahi (7-1) unstable; urgency=medium
 
   * Team upload.
