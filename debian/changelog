@@ -1,3 +1,10 @@
+alsa-ucm-conf-asahi (8-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release.
+
+ -- Andreas Henriksson <andreas@fatal.se>  Fri, 28 Mar 2025 20:36:01 +0100
+
 alsa-ucm-conf-asahi (7-1) unstable; urgency=medium
 
   * Team upload.
